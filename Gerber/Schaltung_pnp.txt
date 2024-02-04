@@ -1,0 +1,44 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=Schaltung
+*Date=14:02:46
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;TO92 [THT];34.8781;-24.8903;180;Bottom;Q1
+2;100nF;100 mil [THT, multilayer];39.1476;-18.5713;-90;Bottom;100nF
+3;;300 mil [THT];48.363;-24.3013;0;Bottom;|>1
+4;22µF;100 mil [THT, tantalum];32.1476;-18.5313;90;Bottom;22µF
+5;;;55.6476;-55.8014;0;Bottom;Hole5
+6;;THT;52.1476;-7.9911;0;Bottom;V|G|SCL|SDA
+7;;300 mil [THT];48.363;-16.8012;180;Bottom;|>
+8;;THT;11.6476;-25.0715;180;Bottom;FAN
+9;;;55.6476;-26.8013;0;Bottom;Hole4
+10;;DIP8 [THT];37.3377;-7.9911;90;Bottom;LM358
+11;;TO92 [THT];20.0587;-25.5318;90;Bottom;Q2
+12;;;56.1477;-1.8015;0;Bottom;Hole7
+13;100k;THT;48.2275;-31.3012;0;Bottom;100k
+14;220;THT;49.7275;-20.8014;0;Bottom;R2
+15;0.22mF;300 mil [THT, electrolytic];8.33761;-13.8015;180;Bottom;220µF
+16;220;THT;48.2275;-28.3015;0;Bottom;R1
+17;;;4.88975;-42.4636;-90;Bottom;TXT1
+18;;;2.14759;-26.8013;0;Bottom;Hole6
+19;;;2.14759;-55.8014;0;Bottom;Hole1
+20;;;23.4947;-41.7514;90;Bottom;WeMos D1 Mini1
+21;;;46.6869;-49.1561;180;Bottom;V|Sig|G|G
+22;100;THT;28.6475;-10.7213;90;Bottom;100
+23;;300 mil [THT];20.863;-7.80145;180;Bottom;11DQ05
+24;4.7k;THT;49.2277;-39.8014;0;Bottom;4,7k
+25;10k;THT;48.0675;-34.8014;180;Bottom;10k
+26;;dip08;21.3376;-16.9914;180;Bottom;LM2574
+27;;;2.14759;-1.8015;0;Bottom;Hole2
+28;330µH;400 mil [THT];15.5676;-3.30141;0;Bottom;330µH
+29;;THT;46.1475;-9.34125;180;Bottom;G|24V|S
