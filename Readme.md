@@ -196,7 +196,7 @@ Hier nochmal in ganz kurz, wie ihr das Ganze aufsetzt, Details finden sich in de
 # Alternativen
 Es gibt diverse Alternativen zu meiner Lösung im Internet, die auf jeden Fall einen Blick wert sind. Und für andere Heizungen bzw. Raum-Temperatur-Regler sind ohnehin andere Lösungen gefragt.
 
-https://blog.pattyland.de/2019/12/01/alte-junkers-gastherme-smart-machen/
-https://github.com/RobinMeis/Junkers_1-2-4_ESP32
-https://github.com/CWempe/Thermostat-Controller
+* https://blog.pattyland.de/2019/12/01/alte-junkers-gastherme-smart-machen/
+* https://github.com/RobinMeis/Junkers_1-2-4_ESP32
+* https://github.com/CWempe/Thermostat-Controller
 
