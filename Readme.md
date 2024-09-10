@@ -84,7 +84,7 @@ Einige Teile hab ich auf der Platine vorgesehen, weil es grade Spaß gemacht hat
 
 
 ### BOM
-Die (hoffentlich vollständige Liste aller Teile auf der Platine)
+Die (hoffentlich vollständige) Liste aller Teile auf der Platine
 * ESP-Node
 * DHT11-Sensor (optional)
 * Spannungswandler: LM2574*-5 (5V)
